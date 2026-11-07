@@ -45,5 +45,8 @@ If BeamNG runs as Administrator, run `BeamLeds.exe` as Administrator as well.
 `gear` (offset 10), `speed` (12, m/s), `rpm` (16), `turbo` (20, bar), `engTemp` (24), `fuel` (28), `oilTemp` (36).
 See the [BeamNG protocols docs](https://documentation.beamng.com/modding/protocols).
 
+## Testing 
+Currently it was **only tested with a G923**, since i don't own or know someone who owns a G29 or G27, but it *should* work
+
 ## License
 MIT for this repository's code (see `LICENSE`). The Logitech SDK is Logitech's and is not covered.
