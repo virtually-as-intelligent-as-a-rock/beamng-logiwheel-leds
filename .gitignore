@@ -1,0 +1,7 @@
+# Logitech SDK files are NOT redistributable (see README) - never commit them
+*.dll
+*.lib
+LogitechSteeringWheelSDK*/
+# build output / local settings
+*.exe
+BeamLeds.ini
